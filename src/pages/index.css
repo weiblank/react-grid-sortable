@@ -1,0 +1,13 @@
+
+.sortable {
+    padding: 10px;
+    border: 1px solid pink;
+}
+.sortable div {
+    padding: 6px;
+    width: 200px;
+    background-color: #fdfdfd;
+    border: solid 1px #eee;
+    margin-bottom: 10px;
+    cursor: move;
+}
